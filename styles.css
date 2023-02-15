@@ -4,3 +4,6 @@ h1.one{
     color: darkblue;
     margin: auto;
 }
+p {
+    font: oblique bold 120% cursive;
+  }
